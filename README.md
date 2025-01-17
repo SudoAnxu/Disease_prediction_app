@@ -1,7 +1,3 @@
-Certainly! Here's a comprehensive template for your GitHub repository's About section. You can copy and paste this into your README.md file or the About section of your GitHub repository:
-
----
-
 # Disease_prediction_app
 
 A Streamlit app with a custom model and LLM to identify diseases from symptoms and provide detailed descriptions.
