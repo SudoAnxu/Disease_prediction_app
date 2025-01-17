@@ -79,6 +79,9 @@ This application leverages machine learning and a language model to predict dise
 - **Get Predictions**: The app will predict the disease based on the symptoms.
 - **Detailed Explanation**: The app provides a detailed explanation of the predicted disease using an LLM.
 
+## Working App
+ - Go to `https://diseasepredictionapp-j9prwxvkgbmtmhprrtuzvi.streamlit.app/` and try on your own/
+   
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
