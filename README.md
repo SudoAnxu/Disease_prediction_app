@@ -90,7 +90,7 @@ The **Disease Prediction App** leverages machine learning and a language model t
 
 ## Working App
 
-Try the working app [here](https://diseasepredictionapp-j9prwxvkgbmtmhprrtuzvi.streamlit.app/).
+Try the working app [Streamlit](https://diseasepredictionapp-7mndkpzfbp5zy2rgxgxnwl.streamlit.app/).
 
 ## Contributing
 
