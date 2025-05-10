@@ -114,7 +114,7 @@ if st.button("💬 Get Explanation"):
                     {"role": "system", "content": "You are a helpful medical assistant that provides detailed explanations for diseases."},
                     {"role": "user", "content": prompt_content}
                 ],
-                model="llama-3-70b-8192"
+                model="llama-3.3-70b-versatile"
             )
             explanation = chat_completion.choices[0].message.content
             st.write("**🧾 Explanation:**")
